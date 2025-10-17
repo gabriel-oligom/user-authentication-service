@@ -4,18 +4,18 @@ Lean Node.js backend for hands-on practice and skill deepening. Start simple, th
 ### 🎯 Focus: modern stack, modular architecture, and iterative learning.
 
 ### 🛠️ Tech Stack
-- Node.js + TypeScript 🧠 — Typed, efficient runtime for robust development
+- Node.js + TypeScript 🧠 — Typed, efficient runtime for robust development.
 
-- Express.js ⚡ — Fast and minimalist API framework
+- Express.js ⚡ — Fast and minimalist API framework.
 
-- Sequelize + PostgreSQL 🗄️ — ORM for powerful relational database operations
+- Sequelize + PostgreSQL 🗄️ — ORM for powerful relational database operations.
 
 #### (Coming soon):
 
-- Docker 🐳 — Containerization for consistent environments
+- Docker 🐳 — Containerization for consistent environments.
 
-- Jest 🧪 — Testing framework for reliable code
+- Jest 🧪 — Testing framework for reliable code.
 
-- JWT 🔐 — Secure authentication
+- JWT 🔐 — Secure authentication.
 
-- Redis ⚙️ — In-memory data store for caching and sessions
+- Redis ⚙️ — In-memory data store for caching and sessions.
